@@ -41,7 +41,6 @@ html, body {
   max-height: 500px;
   transition: transform 0.3s ease-in-out;
   user-select: none;
-box-shadow: rgba(49, 46, 240, 0.4) 5px 5px, rgba(49, 46, 240, 0.3) 10px 10px, rgba(49, 46, 240, 0.2) 15px 15px, rgba(49, 46, 240, 0.1) 20px 20px, rgba(49, 46, 240, 0.05) 25px 25px;
 }
 
 .grabbing {
